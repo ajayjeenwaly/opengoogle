@@ -2,3 +2,10 @@ open browser
 
 
 goolge
+
+yahoo
+
+
+open gamil
+
+close
